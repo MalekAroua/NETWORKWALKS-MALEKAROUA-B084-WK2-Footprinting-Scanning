@@ -87,9 +87,11 @@ The main goals of these practical labs are:
 
 ### 1. WHOIS Reconnaissance (`whois networkwalks.com`)
 ![Whois Evidence](evidence/whois.png)
+![Whois Evidence](evidence/whois_.png)
 
 ### 2. Web Fingerprinting (`whatweb networkwalks.com`)
 ![WhatWeb Evidence](evidence/whatweb.png)
+![WhatWeb Evidence](evidence/whatweb_.png)
 
 ### 3. DNS Resolution (`nslookup networkwalks.com`)
 ![Nslookup Evidence](evidence/nslookup.png)
@@ -99,15 +101,22 @@ The main goals of these practical labs are:
 
 ### 5. WAF Detection (`wafw00f networkwalks.com`)
 ![Wafw00f Evidence](evidence/wafw00f.png)
+![Wafw00f Evidence](evidence/wafw00f_.png)
 
 ### 6. DNS Record Enumeration (`dnsrecon -d networkwalks.com`)
 ![DNSRecon Evidence](evidence/dnsrecon.png)
+![DNSRecon Evidence](evidence/dnsrecon_.png)
 
-### 7. Zenmap Ping Scan Results (`nmap -sn 10.184.114.0/24`)
-![Zenmap Scan Evidence](evidence/zenmap_scan.png)
+### 7. Upload nmap (`nmap setting`)
+![Zenmap Setting Evidence](evidence/nmap.png)
+![Zenmap Setting Evidence](evidence/nmap_.png)
 
-### 8. Zenmap Network Topology Map
-![Zenmap Topology Evidence](evidence/zenmap_topology.png)
+### 8. Zenmap Ping Scan Results (`nmap -sn 10.184.114.0/24`)
+![Zenmap Scan Evidence](evidence/ipconfig.png)
+![Zenmap Scan Evidence](evidence/zenmap.png)
+
+### 9. Zenmap Network Topology Map
+![Zenmap Topology Evidence](evidence/zenmap_.png)
 
 ---
 
