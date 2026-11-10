@@ -113,10 +113,10 @@ The main goals of these practical labs are:
 
 ### 8. Zenmap Ping Scan Results (`nmap -sn 10.184.114.0/24`)
 ![Zenmap Scan Evidence](evidence/ipconfigg.png)
-![Zenmap Scan Evidence](evidence/zenmap.png)
+![Zenmap Scan Evidence](evidence/zenmapp.png)
 
 ### 9. Zenmap Network Topology Map
-![Zenmap Topology Evidence](evidence/zenmap_.png)
+![Zenmap Topology Evidence](evidence/zenmapp_.png)
 
 ---
 
