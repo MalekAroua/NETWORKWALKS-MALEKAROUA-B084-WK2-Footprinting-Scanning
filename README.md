@@ -20,7 +20,7 @@
 
 ## 📌 Project Overview
 
-This project documents hands-on practical exercises covering the reconnaissance and scanning phases of a security assessment. It bridges external open-source intelligence (OSINT) gathering against a target domain (`networkwalks.com`) using Kali Linux tools with internal local subnet discovery (`10.x.x.0/24`) using Zenmap.
+This project documents hands-on practical exercises covering the reconnaissance and scanning phases of a security assessment. It bridges external open-source intelligence (OSINT) gathering against a target domain (`networkwalks.com`) using Kali Linux tools with internal local subnet discovery (`10.x.x.x/24`) using Zenmap.
 
 ---
 
